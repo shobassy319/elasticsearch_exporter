@@ -101,6 +101,11 @@ Further Information
 - [Defining Roles](https://www.elastic.co/guide/en/elastic-stack-overview/7.3/defining-roles.html)
 - [Privileges](https://www.elastic.co/guide/en/elastic-stack-overview/7.3/security-privileges.html)
 
+#### Elasticsearch 8.x security privileges
+
+For 8.x, `monitor` privilege should be sufficient for retrieving all metrics.
+- https://www.elastic.co/guide/en/elasticsearch/reference/8.6/security-privileges.html
+
 ### Metrics
 
 |Name                                                                   |Type       |Cardinality  |Help
